@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-styleguide-recommended",
+  "version": "1.0.0",
+  "description": "Sain default coding style",
+  "author": "Romain Prignon <pro.rprignon@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "eslint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romainPrignon/eslint-config-styleguide-recommended.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.x",
+    "npm": ">= 2.x"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
