@@ -1,4 +1,4 @@
-# estlint-config-styleguide-recommended
+# eslint-config-styleguide-recommended
 
 Sain default coding style  
 Can be applied in any language  
@@ -14,7 +14,7 @@ Can be applied in any language
 ## Installation
 
 ```sh
-npm install --save-dev estlint-config-styleguide-recommended
+npm install --save-dev eslint-config-styleguide-recommended
 ``` 
 `.eslintrc`
 ```eslint
