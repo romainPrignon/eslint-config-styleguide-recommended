@@ -8,7 +8,7 @@ Can be applied in any language
 * require or disallow newline at the end of files (`"eol-last": ["error", "always"]`})
 * enforce consistent indentation (`"indent": ["error", 2]`)
 * enforce consistent linebreak style (`"linebreak-style": ["error", "unix"]`)
-* enforce a maximum line length (`"max-len": ["error", 80]`)
+* enforce a maximum line length (`"max-len": ["error", 120]`)
 * disallow trailing whitespace at the end of lines (`"no-trailing-spaces": "error"`)
 
 ## Installation
