@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-styleguide-recommended",
-  "version": "3.0.1",
+  "version": "4.0.0",
   "description": "Sain default coding style",
   "author": "Romain Prignon <pro.rprignon@gmail.com>",
   "license": "MIT",
